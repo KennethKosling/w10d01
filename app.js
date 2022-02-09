@@ -79,3 +79,26 @@ for (let i = 1000; i >= 1; i--){
     console.log(i);
 }
 */
+
+//Practice Module 1------------------------------------------------------
+
+/*
+const random = require('./utilities/random')
+for (let i =0; i < 10; i++) {
+    console.log(random(100, 200));
+}
+*/
+
+//Practice Module 2------------------------------------------------------
+
+/*
+const circle = require('./utilities/circle');
+console.log(circle.area(50));
+console.log(circle.circumference(75));
+*/
+
+//Practice Module 2------------------------------------------------------
+
+///*
+
+//*/
